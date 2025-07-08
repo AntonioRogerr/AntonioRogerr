@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioRogerr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioRogerr&show_icons=true&theme=tokyonight&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioRogerr&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
@@ -77,9 +77,9 @@
 <p>
   Atualmente, estou focado em aprimorar minhas habilidades em:
   <ul>
-    <li>🚀 [Nome da Tecnologia/Área 1] - <em>Ex: Arquitetura de Microsserviços com Go</em></li>
-    <li>🎨 [Nome da Tecnologia/Área 2] - <em>Ex: Animações avançadas com Framer Motion</em></li>
-    <li>☁️ [Nome da Tecnologia/Área 3] - <em>Ex: Certificação AWS Solutions Architect</em></li>
+    <li>🚀 [Nome da Tecnologia/Área 1] - <em></em></li>
+    <li>🎨 [Nome da Tecnologia/Área 2] - <em></em></li>
+    <li>☁️ [Nome da Tecnologia/Área 3] - <em></em></li>
   </ul>
 </p>
 
